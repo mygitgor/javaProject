@@ -1,0 +1,7 @@
+package com.example.connectme.message.client;
+
+public class Client {
+    public static void main(String[] args) {
+        
+    }
+}
